@@ -3,7 +3,7 @@
 # Table of Contents
 
 ## 0. Intro
-- [About Course - (Open in Colab)]()
+- [Import Libraries & Database - (Open in Colab)]()
 - [Colab Notebooks - (Open in Colab)]()
 - [Database Overview - (Open in Colab)]()
 
